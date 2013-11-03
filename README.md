@@ -1,4 +1,4 @@
 node-mongo-connect
 ==================
 
-Connecting to MongoDb
+Sample code that connects to MongoDb using mongodb  module.
